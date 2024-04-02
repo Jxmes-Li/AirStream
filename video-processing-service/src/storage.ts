@@ -26,6 +26,7 @@ export function setupDirectories() {
  * @returns A promise that resolves when the video has been converted.
  */
 export function convertVideo(rawVideoName: string, processedVideoName: string) {
+    
     ffmpeg(`${localRawVideoPath}/${rawVideoName}`)
         .outputOptions("-vf", "scale =-1:360") // 360p
         .on("end", () => {
