@@ -12,7 +12,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDOBnwoDkB3OCoQ0dwt3AbdQ8bYgH4uOwM",
+    apiKey: process.env.NEXT_PUBLIC_API_KEY,
     authDomain: "yt-clone-d6186.firebaseapp.com",
     projectId: "yt-clone-d6186",
     appId: "1:1070517750005:web:70f8c7e4bd08f202f19dbc"
