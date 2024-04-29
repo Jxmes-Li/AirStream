@@ -6,7 +6,6 @@ initializeApp({credential: credential.applicationDefault()});
 
 const firestore = new Firestore();
 
-// Testing Locally with local firestore - need to set up emulator
 // Note: This requires setting an env variable in Cloud Run
 /** if (process.env.NODE_ENV !== 'production') {
   firestore.settings({
@@ -14,6 +13,7 @@ const firestore = new Firestore();
       ssl: false
   });
 } */
+
 
 const videoCollectionId = 'videos';
 
@@ -28,7 +28,7 @@ export interface Video {
 
 async function getVideo(videoId: string) {
   const snapshot = await firestore.collection(videoCollectionId).doc(videoId).get();
-  return (snapshot.data() as Video) ?? {}
+  return (snapshot.data() as Video) ?? {};
 }
 
 export function setVideo(videoId: string, video: Video) {
