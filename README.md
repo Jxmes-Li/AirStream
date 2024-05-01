@@ -3,13 +3,7 @@
 <p align="center">
 <img src= "https://mma.prnewswire.com/media/479571/Airstream_Logo.jpg?p=facebook" width="750" height="250" align="center">
 </p>
-<p align="center">
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/Tassled-Wobbegong5/roomier?color=%239d65c9&style=flat-square">
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Tassled-Wobbegong5/roomier/total?color=green">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tassled-Wobbegong5/roomier?color=orange">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tassled-Wobbegong5/roomier?style=social">
 
-</p>
 
 # Overview
 
