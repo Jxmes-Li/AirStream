@@ -1,7 +1,7 @@
 -- READ ME UNDER CONSTRUCTION -- 
 
 <p align="center">
-<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQK6BpFh6nyiw4_V_snmmt3OHHUfG04ExXJdekXoq-&s" width="750" height="250" align="center">
+<img src= "https://mma.prnewswire.com/media/479571/Airstream_Logo.jpg?p=facebook" width="750" height="250" align="center">
 </p>
 <p align="center">
   <img alt="Contributors" src="https://img.shields.io/github/contributors/Tassled-Wobbegong5/roomier?color=%239d65c9&style=flat-square">
