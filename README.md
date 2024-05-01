@@ -29,7 +29,7 @@ npm run start
 
 3. Navigate to `localhost:3000` to view the application build
 
-NOTE: ---- 
+NOTE: No proper environment variables are necessary to run the application properly!
 
 # Future Work
 
