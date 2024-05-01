@@ -1,4 +1,3 @@
--- READ ME UNDER CONSTRUCTION -- 
 
 <p align="center">
 <img src= "https://mma.prnewswire.com/media/479571/Airstream_Logo.jpg?p=facebook" width="750" height="250" align="center">
@@ -7,7 +6,8 @@
 
 # Overview
 
------ 
+Welcome to AirStream! The application is a platform made for all users to upload and share videos on the cloud for anyone to view. Airstream has the capablity to scale up to 100,000 monthly active users! All you need to do to start is make an account. 
+
 
 # Getting started
 
