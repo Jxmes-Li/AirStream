@@ -6,7 +6,7 @@
 
 # Overview
 
-Welcome to AirStream! The application is a platform made for all users to upload and share videos on the cloud for anyone to view. Airstream has the capablity to scale up to 100,000 monthly active users! All you need to do to start is make an account. 
+Welcome to AirStream! The application is a platform made for all users to upload and share videos on the cloud for anyone to view. Airstream has the capablity to scale up to store and serve a virtually unlimited number of users and videos! All you need to do to start is make an account. 
 
 
 # Getting started
