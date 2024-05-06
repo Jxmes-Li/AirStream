@@ -9,7 +9,7 @@ export default function Watch() {
         <div>
             <h1>Watch Page</h1>
             {
-                <video controls src={videoSrc + videoSrc} />
+                <video controls src={videoPrefix + videoSrc} />
             }
         </div>
     );
